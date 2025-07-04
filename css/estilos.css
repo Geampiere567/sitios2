@@ -1,0 +1,12 @@
+body{
+	background: conic-gradient(#6ecddc, #8295e1, #83d2cf, #8295e1);
+}
+
+nav ul{
+	list-style-type: none;
+	width: 600px;
+	text-align: center;
+	background: #5dfff8;
+
+
+}
